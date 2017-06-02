@@ -21,7 +21,7 @@
     height: 90px;
     width: 200px;
     background: grey;
-    right: 100px;
+    left: 100px;
     position: relative;
     display: block;
 }
@@ -31,7 +31,7 @@
     width: 200px;
     background-color: grey;
     position: relative;
-    left: 100px;
+    right: 100px;
 }
 
 .button {
