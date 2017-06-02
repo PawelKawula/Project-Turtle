@@ -41,18 +41,18 @@
   text-align: center;
   cursor: pointer;
   outline: none;
-  color: #fff;
-  background-color: #4CAF50;
+  color: white;
+  background-color: black;
   border: none;
   margin-right: 3px;
   box-shadow: 0 9px #999;
-
 }
 
-.button:hover {background-color: #3e8e41}
+
+.button:hover {background-color: #aaa}
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: #ccc;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
