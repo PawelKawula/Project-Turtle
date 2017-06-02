@@ -34,25 +34,25 @@ body {
 }
 
 .div_panel {
-    height: 90px;
-    width: 200px;
-    background-color: grey;
-    position: relative;
-    right: 100px;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+    width: 500px;
+    padding-top: 15px;
+    text-align: right;
 }
 
 .button {
   padding: 10px 20px;
   font-size: 14px;
-  width: 8%;
+  width: 150px;
   text-align: center;
   cursor: pointer;
   outline: none;
   color: white;
   background-color: black;
   border: none;
-  margin-right: 3px;
-  box-shadow: 0 9px #999;
+  margin-right: 10px;
 }
 
 
@@ -61,7 +61,6 @@ body {
 .button:active {
   background-color: #ccc;
   box-shadow: 0 5px #666;
-  transform: translateY(4px);
 }
 
 /*=================== CONTENT =================*/
