@@ -37,14 +37,16 @@
 .button {
   padding: 10px 20px;
   font-size: 14px;
+  width: 8%;
   text-align: center;
   cursor: pointer;
   outline: none;
   color: #fff;
   background-color: #4CAF50;
   border: none;
-  border-radius: 15px;
+  margin-right: 3px;
   box-shadow: 0 9px #999;
+
 }
 
 .button:hover {background-color: #3e8e41}
